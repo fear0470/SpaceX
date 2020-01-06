@@ -16,6 +16,9 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^0.4.4"
+    "apollo-boost": "^0.4.7",
+    "graphql": "^14.5.8",
+    "sirv-cli": "^0.4.4",
+    "svelte-apollo": "^0.3.0"
   }
 }
